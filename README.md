@@ -8,4 +8,4 @@ Eklenti kurulumu ile ilgili tüm detayları [buradan](https://github.com/SimurgT
 [http://mybb.com.tr](http://mybb.com.tr) ve [http://mybbdepo.com](http://mybbdepo.com)
 
 # Author Website
-[http://torrentdizindir.com](http://torrentdizindir.com)
+[http://huseyinkorbalta.com](http://huseyinkorbalta.com)
